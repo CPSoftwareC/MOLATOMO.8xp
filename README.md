@@ -1,0 +1,2 @@
+# MOLATOMO.8xp
+Prgm MOLATOMO.8xp, desenvolido em TI-BASIC. Programa sobre a fórmula do Número de entidades (N), ou número de partículas, "N=n*Na" (Na=6.022E23, Constante de Avogadro). Usando programa podemos saber o número de entidades, N, através da quantidade de matéria,n (mols), e saber a quantidade de matéria, n, através do número de entidades, N. Usado para auxiliar no estudo da "Massa e tamanho dos átomos", Química de 10º ano.
